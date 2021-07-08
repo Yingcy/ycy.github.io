@@ -87,8 +87,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+	margin-top: 0;
+	margin-bottom: 1rem;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 
 abbr[title],
@@ -604,6 +605,7 @@ pre code {
 	flex-wrap: wrap;
 	margin-right: 0px;
 	margin-left: 0px;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
 }
 
 .no-gutters {
@@ -1636,6 +1638,7 @@ pre code {
   }
   .offset-xl-1 {
 	margin-left: 12.5%;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
   }
   .offset-xl-2 {
 	margin-right: 0px;
